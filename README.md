@@ -16,9 +16,9 @@ Para Instalar Dependencias
 ## Especificaciones
 
 Las peticiones del fronted fueron desarrolladas con Axios, con los metodos get y post, 
-que son utilizados atra vez de un formulario y una tabla relacionada con los items del formulario.
+que son utilizados a través de un formulario y una tabla relacionada con los items del formulario.
 
-La aplicacion tiene una barra de busqueda, que filtra la tabla por el item <b>"nombre"</b>"nombre"
+La aplicacion tiene una barra de busqueda, que filtra la tabla por el item <b>"nombre"</b>
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
