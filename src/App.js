@@ -43,7 +43,7 @@ function App() {
         estado: estado,
       },
     ]);
-    setPickingResume("")
+   
   };
 
   return (
